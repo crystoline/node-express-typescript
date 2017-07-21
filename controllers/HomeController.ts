@@ -1,17 +1,7 @@
-/**
- * Created by Crysto on 7/14/2017.
- */
+import {Request, Response} from "express";
 
-/*var HomeController =
-{
-    Index: function(req, res, next) {
-        res.render('index', { title: 'Express' });
-    }
-
-}*/
 class HomeController{
-
-    public  index = function (req: any, res: any, next: any): void{
+      public static index = function (req: Request, res: Response, next: Function): void{
         res.render('index', { title: 'Express' });
     }
 }

@@ -1,12 +1,2 @@
-modules/patient_care/passport/
 .idea
-classes/DBConf.php
-ehospital.zip
-log
-modules/patient_care/upload/
-includes/database.php
-.htaccess
-debug-payment-query.txt
-
-admin/user_guide/
-web.config
+node_modules

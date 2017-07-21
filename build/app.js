@@ -1,6 +1,5 @@
-"use strict";
 /// <reference path="./typings/index.d.ts"/>
-Object.defineProperty(exports, "__esModule", { value: true });
+"use strict";
 var express = require('express');
 var path = require('path');
 var favicon = require('serve-favicon');

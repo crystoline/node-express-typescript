@@ -1,5 +1,5 @@
 {
-  "name": "my",
+  "name": "Node-Express-Typescript",
   "dependencies": {
     "express": "registry:dt/express#4.0.0+20170118060322",
     "express-serve-static-core": "registry:dt/express-serve-static-core#4.0.0+20170324160323",
